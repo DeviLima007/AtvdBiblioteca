@@ -1,0 +1,14 @@
+C:\Users\desan\OneDrive\Documentos\AtvdBiblioteca\bin\Debug\net8.0\AtvdBiblioteca.exe
+C:\Users\desan\OneDrive\Documentos\AtvdBiblioteca\bin\Debug\net8.0\AtvdBiblioteca.deps.json
+C:\Users\desan\OneDrive\Documentos\AtvdBiblioteca\bin\Debug\net8.0\AtvdBiblioteca.runtimeconfig.json
+C:\Users\desan\OneDrive\Documentos\AtvdBiblioteca\bin\Debug\net8.0\AtvdBiblioteca.dll
+C:\Users\desan\OneDrive\Documentos\AtvdBiblioteca\bin\Debug\net8.0\AtvdBiblioteca.pdb
+C:\Users\desan\OneDrive\Documentos\AtvdBiblioteca\obj\Debug\net8.0\AtvdBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desan\OneDrive\Documentos\AtvdBiblioteca\obj\Debug\net8.0\AtvdBiblioteca.AssemblyInfoInputs.cache
+C:\Users\desan\OneDrive\Documentos\AtvdBiblioteca\obj\Debug\net8.0\AtvdBiblioteca.AssemblyInfo.cs
+C:\Users\desan\OneDrive\Documentos\AtvdBiblioteca\obj\Debug\net8.0\AtvdBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\desan\OneDrive\Documentos\AtvdBiblioteca\obj\Debug\net8.0\AtvdBiblioteca.dll
+C:\Users\desan\OneDrive\Documentos\AtvdBiblioteca\obj\Debug\net8.0\refint\AtvdBiblioteca.dll
+C:\Users\desan\OneDrive\Documentos\AtvdBiblioteca\obj\Debug\net8.0\AtvdBiblioteca.pdb
+C:\Users\desan\OneDrive\Documentos\AtvdBiblioteca\obj\Debug\net8.0\AtvdBiblioteca.genruntimeconfig.cache
+C:\Users\desan\OneDrive\Documentos\AtvdBiblioteca\obj\Debug\net8.0\ref\AtvdBiblioteca.dll
